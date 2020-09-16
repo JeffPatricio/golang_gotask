@@ -5,7 +5,7 @@ A simple REST API for studies made in *Golang* simulating a control of tasks to 
 
 ```
 Task {
-  UID : uint32
+	UID : uint32
 	Description : string
 	UserID : string
 	CreatedAt : string
