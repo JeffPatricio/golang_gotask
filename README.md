@@ -33,7 +33,7 @@ ___
     - UserId
 
   - Params:
-    - id: string
+    - id
 ___
 
 - (PATCH) tasks/:id
@@ -41,7 +41,7 @@ ___
     - UserId
     
   - Params:
-    - id: string
+    - id
 
   - Body:
     - closed: boolean
