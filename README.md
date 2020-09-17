@@ -1,6 +1,10 @@
 # GoTask (Golang)
 A simple REST API for studies made in *Golang* simulating a control of tasks to do.
 
+- 📚 gorilla/mux
+- 📚 joho/godotenv
+- 📚 lib/pq
+
 ## Structure
 
 ```
