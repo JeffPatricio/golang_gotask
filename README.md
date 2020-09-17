@@ -16,13 +16,13 @@ Task {
 ## Endpoints
 
 - (GET) tasks
-  - Headers
-   - UserId
+  - Headers:
+    - UserId
 ___
 
 - (POST) tasks
   - Headers:
-   - UserId
+    - UserId
   
   - Body:
     - description: string
